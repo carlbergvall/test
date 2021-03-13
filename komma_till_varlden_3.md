@@ -9,7 +9,7 @@ Template: single
 Category: Historia 
 Featured: https://johlstorp.se/pico/assets/bardnop.jpg 
 ---
-Att komma till världen i Johlstorp
+#Att komma till världen i Johlstorp
 I slutet på 1800-talet och några årtionden in på 1900-talet föddes barnen hemma.
 Det fanns redan då barnbördshus, BB, i de större städerna, men på landsbygden föddes nästan alla barn i hemmet. Så var det också i Johlstorp.
 Där har fötts 12 barn hemma på gården under den tid som den här historiken handlar om.
